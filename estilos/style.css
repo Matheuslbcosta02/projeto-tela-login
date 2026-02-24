@@ -17,13 +17,13 @@ PALETA DE CORES DO MEU PROJETO:
 }
 
 body,html{
-    min-height: 100vh;
-    width: 100vw;
+    height: 100vh;
+    
 }
 
 main{
-    height: 97vh;
-    width: 100vw;
+    min-height: 100dvh;
+    
     background:linear-gradient(to top, #E5C6A9,#F9F1E6,#f9e6e6,#726B61);
     position: relative;
 }
@@ -159,7 +159,4 @@ footer{
     text-shadow: 0px 0px 10px rgba(255, 255, 255, 0.82);
     text-align: center;
     
-
 }
-
-
