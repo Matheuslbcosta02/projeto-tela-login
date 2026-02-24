@@ -34,7 +34,7 @@ section{
     left: 50%;
     transform: translate(-50%, -50%);
     height: 500px;
-    width: 270px;
+    width: 290px;
     background-color: white;
     border-radius: 30px;
     overflow: hidden;
@@ -161,3 +161,4 @@ footer{
     
 
 }
+
